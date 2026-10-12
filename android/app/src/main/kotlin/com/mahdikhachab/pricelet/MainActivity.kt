@@ -1,4 +1,4 @@
-package com.example.pricelet_app
+package com.mahdikhachab.pricelet
 
 import io.flutter.embedding.android.FlutterActivity
 

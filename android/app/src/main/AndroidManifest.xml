@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.pricelet_app">
+    package="com.mahdikhachab.pricelet">
    <application
-        android:label="pricelet_app"
+        android:label="Pricelet POS"
         android:name="${applicationName}"
         android:icon="@mipmap/launcher_icon">
         <activity
